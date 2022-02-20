@@ -44,7 +44,7 @@
 - a number of
 - one of the
 
-### 셀 수 있는 복수 명사 / 셀수 없는 명사 앞
+### 셀 수 있는 복수 명사 / 셀 수 없는 명사 앞
 - any
 - some
 - most
